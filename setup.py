@@ -4,7 +4,7 @@ setup(
     name='src',
     packages=find_packages(),
     version='0.1.0',
-    description='{{PROJECT_DESCRIPTION}}',
-    author='{{MAJOR_CONTRIBUITOR}}',
-    license='{{LICENSE}}',
+    description='Predict sales prices and practice feature engineering, RFs, and gradient boosting',
+    author='Madson Dias',
+    license='MIT',
 )

@@ -1,6 +1,6 @@
-# {{PROJECT_NAME}}
+# House Prices: Advanced Regression Techniques
 
-{{PROJECT_DESCRIPTION}}
+Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
 
 ## Project Organization
@@ -31,4 +31,4 @@
 
 ## Contributors
 
-{{PROJECT_CONTRIBUITORS}}
+ - [Madson Dias](mailto::madsonddias@gmail.com) 
