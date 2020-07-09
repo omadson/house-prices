@@ -1,0 +1,17 @@
+# local package
+-e .
+
+# external requirements
+invoke
+
+# data sience requirements
+numpy
+pandas
+matplotlib
+seaborn
+
+# notebooks requirements
+jupyterlab
+papermill
+nteract-scrapbook
+nbdime
